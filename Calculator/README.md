@@ -1,1 +1,1 @@
-This project is for create different types code on calculator project.
+This folder is for create different types code on calculator project.
